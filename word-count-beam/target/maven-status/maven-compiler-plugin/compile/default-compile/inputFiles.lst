@@ -1,0 +1,10 @@
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/common/ExampleUtils.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/WindowedWordCount.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/common/ExampleBigQueryTableOptions.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/common/WriteOneFilePerWindow.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/common/ExampleOptions.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/common/ExamplePubsubTopicAndSubscriptionOptions.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/WordCount.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/common/ExamplePubsubTopicOptions.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/MinimalWordCount.java
+/Users/lemonhall/Downloads/Beam_HelloWorld/word-count-beam/src/main/java/org/apache/beam/examples/DebuggingWordCount.java
